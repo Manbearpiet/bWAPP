@@ -8,7 +8,7 @@ This is just an instance of the OWASP [bWAPP project](http://www.itsecgames.com/
 
 The container is based on [tutum/lamp](https://hub.docker.com/r/tutum/lamp/)
 
-just use 
+just use :
 
 ```
 docker run -d -p 80:80 raesene/bwapp
